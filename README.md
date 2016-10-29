@@ -24,15 +24,15 @@ James P. Lynch, which helped me a lot getting this thing to work properly.
 
 If you use the Sparkfun Board connect the Pins as Follow
 
-|RPi|PCB|
-|-|-|
-|MOSI|DIO|
-|SCLK|SCK|
-|CS1|CS|
-|GPIO #21|RESET|
-|GND|GND|
-|3.3V|3.3V|
-|5V|VBATT|
+| RPi      | PCB   |
+|----------|-------|
+| MOSI     | DIO   |
+| SCLK     | SCK   |
+| CS1      | CS    |
+| GPIO #21 | RESET |
+| GND      | GND   |
+| 3.3V     | 3.3V  |
+| 5V       | VBATT |
 
 that should do it
 
